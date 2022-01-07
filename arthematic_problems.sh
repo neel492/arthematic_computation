@@ -10,7 +10,5 @@ echo "First number is: "$a
 
 echo "Second number is: "$b
 echo "Third number is: "$c
-z=$((a*b+c))
+z=$((a/b+c))
 echo  "print result" $z
-print_out=8
-echo "part time is " $print_out
